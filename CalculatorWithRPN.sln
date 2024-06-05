@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWithRPN", "CalculatorWithRPN\CalculatorWithRPN.csproj", "{38C17151-B807-4C16-9B2B-FB8098A06D4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleCalculator", "ConsoleCalculator\ConsoleCalculator.csproj", "{38C17151-B807-4C16-9B2B-FB8098A06D4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPN.Logika", "RPN.Logika\RPN.Logika.csproj", "{7D7D785D-C0DA-4434-87A2-CF35667492AC}"
 EndProject

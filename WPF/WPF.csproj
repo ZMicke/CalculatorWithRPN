@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\CalculatorWithRPN\CalculatorWithRPN.csproj" />
+      <ProjectReference Include="..\ConsoleCalculator\ConsoleCalculator.csproj" />
       <ProjectReference Include="..\RPN.Logika\RPN.Logika.csproj" />
     </ItemGroup>
 
